@@ -1,0 +1,27 @@
+openworld collaborative project charter
+
+This document will outline the strategic goals of the project to direct development and outline scope as a foundation for ongoing scope management.
+
+
+Project Vision
+  TODO
+
+Scope Outline
+  TODO
+
+Strategic Project Timeline
+  En general, the project consists of three sections: art, design and implementation. More specifically, this refers to a concept art style stage where broad ideas are drafted, 
+  followed by a design stage where these abstract ideas are manifested into a tangible design in 3D euclidean space (lmoo) and finally implementation where we take our now 
+  tangible designs and build them in a cohesive world.
+
+  As an example of this process we will begin with a lighthouse on a rockery peninsula protuding from the main coastal. We will begin in the art stage fleshing out this 
+  idea (e.g. what style of lighthouse, do we want any foliage, how much foliage, etc) via concept art, brainstorming and such.
+  Next, we will create the individual assets required for this more fleshed out scene in blender, this is the design 
+  stage. We will also decide where in our designed world these objects will sit precisely.
+  Finally, having designed the location and tangible models necessary for our original vision, we implement them via the game engine of choice we are working in so that they can be found in our developing game world.
+
+  It's important to note that this isn't a strictly sequential process across the whole project and that different components will be at different stages across development (as we naturally come up with new ideas and so forth). This is simply, in 
+  general, how we plan to create and integrate each part of the world such that everything is properly thought out and cohesive with the rest of the world.
+
+Work Breakdown Structure
+  TODO
