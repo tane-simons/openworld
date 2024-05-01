@@ -1,0 +1,19 @@
+<!--
+ | Open World Dictionary File
+ |
+ | This file registers all intended game world objects. The purpose of this is tracking assets not yet implemented but required for the design. Entries include object name, location where required in the world (grid reference or blank if not yet defined/multiple instances) and a description.
+ -->
+
+<openworld>
+  <building name="lighthouse" locale="">
+    <desc>A lighthouse that will appear somewhere on the coast.</desc>
+    <child name="door"><desc>Used as front door at the base of the model</desc></child>
+    <child name="metal-railing"><desc>for a curved array for the upper lookout deck</desc></child>
+  </building>
+  <building name="dutch-windmill">
+    <desc>goes hard.</desc>
+  </building>
+  <flora name="gumtree">
+    <desc>idk bro a gumtree yk?</desc>
+  </flora>
+</openworld>
