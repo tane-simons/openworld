@@ -29,23 +29,23 @@ In terms of management there is no management. For things like the blending boar
 --> Jonas
 
 ## Blending Bounty Board (and other asset things) - assign yourself to something and add your result to the repo then mark things as done
-unassigned - exterior building wall textures
-unassigned - roof tile textures
-unassigned - metal platting
-unassigned - wooden planks/boards (marshy board walk??)
-unassigned - concrete slabs
-unassigned - cracks + stains + wear + tear (transparent background)
-unassigned - grass topview
-unassigned - grass sideview (transparent background)
-
-unassigned - suburban homes
-unassigned - regional medical clinic
-unassigned - small town police station
-unassigned - small town fire station
-unassigned - cafes x5
-unassigned - some trees (oak, spruce, birch, whatever else is in minecraft)
+unassigned - exterior building wall textures\
+unassigned - roof tile textures\
+unassigned - metal platting\
+unassigned - wooden planks/boards (marshy board walk??)\
+unassigned - concrete slabs\
+unassigned - cracks + stains + wear + tear (transparent background)\
+unassigned - grass topview\
+unassigned - grass sideview (transparent background)\
+\\
+unassigned - suburban homes\
+unassigned - regional medical clinic\
+unassigned - small town police station\
+unassigned - small town fire station\
+unassigned - cafes x5\
+unassigned - some trees (oak, spruce, birch, whatever else is in minecraft)\
 unassigned - some like rocks/boulders
 
 ## Credits
-Jonas Kew - Programmer/Mathematician + enginearing my limit
+Jonas Kew - Programmer/Mathematician + enginearing my limit\
 Tāne Simons - Designer/3D Artist
