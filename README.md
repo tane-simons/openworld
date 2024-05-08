@@ -6,5 +6,5 @@ The creation of a urban design and city building game
 Fill this in later
 
 ## Credits
-Jonas Kew - Programmer
+Jonas Kew - Programmer\
 Tāne Simons - Designer
